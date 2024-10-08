@@ -1,6 +1,6 @@
 # qr_code_reader
 
-This is a simple QR Code Reader written in rust.
+This is a simple QR Code Reader written in rust. I wrote it to parse QR Codes taken at Career Fairs such as AISES. https://www.aises.org/
 
 # Usage:
 
