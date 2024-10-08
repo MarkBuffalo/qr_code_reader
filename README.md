@@ -11,12 +11,6 @@ QR code 1 from file qrcode1.jpeg: hxxps://redactedurl1.com
 ```
 2. An entire directory
 ```
-cargo run -- --dir path_to_directory_with_images
-```
-
-*Output*:
-
-```
 $ cargo run -- --dir /directory/images/
 
 QR code 1 from file /directory/images/qrcode1.jpeg: hxxps://redactedurl1.com
